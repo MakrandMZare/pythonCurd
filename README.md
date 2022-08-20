@@ -1,0 +1,2 @@
+# pythonCurd
+Django Rest PostgreSQL
